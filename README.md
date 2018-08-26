@@ -1,0 +1,2 @@
+# synex
+GitHub Pages
